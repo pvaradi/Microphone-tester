@@ -1,0 +1,130 @@
+c:\users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\bin\Debug\Proba.exe.config
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\bin\Debug\Proba.exe
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\bin\Debug\Proba.pdb
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.Form1.resources
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.exe
+C:\Users\pevaradi\documents\visual studio 2013\Projects\Proba\Proba\obj\Debug\Proba.pdb
+D:\Proba\Proba\bin\Debug\Proba.exe.config
+D:\Proba\Proba\obj\Debug\Proba.exe
+D:\Proba\Proba\obj\Debug\Proba.pdb
+D:\Proba\Proba\bin\Debug\Proba.exe
+D:\Proba\Proba\bin\Debug\Proba.pdb
+D:\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+D:\Proba\Proba\obj\Debug\Proba.Form1.resources
+D:\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+D:\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+D:\Proba\Proba\obj\Debug\Proba.Form2.resources
+F:\Proba\Proba\bin\Debug\Proba.exe.config
+F:\Proba\Proba\obj\Debug\Proba.exe
+F:\Proba\Proba\obj\Debug\Proba.pdb
+F:\Proba\Proba\bin\Debug\Proba.exe
+F:\Proba\Proba\bin\Debug\Proba.pdb
+F:\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+F:\Proba\Proba\obj\Debug\Proba.Form1.resources
+F:\Proba\Proba\obj\Debug\Proba.Form2.resources
+F:\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+F:\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+D:\Proba\Proba\obj\Debug\Proba.Form3.resources
+F:\Proba\Proba\obj\Debug\Proba.Form3.resources
+F:\Proba\Proba\bin\Debug\itextsharp.dll
+G:\Proba\Proba\bin\Debug\Proba.exe.config
+G:\Proba\Proba\obj\Debug\Proba.exe
+G:\Proba\Proba\obj\Debug\Proba.pdb
+G:\Proba\Proba\bin\Debug\Proba.exe
+G:\Proba\Proba\bin\Debug\Proba.pdb
+G:\Proba\Proba\bin\Debug\itextsharp.dll
+G:\Proba\Proba\bin\Debug\NAudio.dll
+G:\Proba\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+G:\Proba\Proba\obj\Debug\Proba.Form1.resources
+G:\Proba\Proba\obj\Debug\Proba.Form2.resources
+G:\Proba\Proba\obj\Debug\Proba.Form3.resources
+G:\Proba\Proba\obj\Debug\Proba.Properties.Resources.resources
+G:\Proba\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+D:\Proba\Proba\bin\Debug\itextsharp.dll
+D:\Proba\Proba\bin\Debug\NAudio.dll
+G:\Proba - mikrofon\Proba\bin\Debug\Proba.exe.config
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.exe
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.pdb
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.Form1.resources
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.Form2.resources
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.Form3.resources
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.Properties.Resources.resources
+G:\Proba - mikrofon\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+G:\Proba - mikrofon\Proba\bin\Debug\Proba.exe
+G:\Proba - mikrofon\Proba\bin\Debug\Proba.pdb
+G:\Proba - mikrofon\Proba\bin\Debug\itextsharp.dll
+G:\Proba - mikrofon\Proba\bin\Debug\NAudio.dll
+F:\Proba - mikrofon\Proba\bin\Debug\Proba.exe.config
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.exe
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.pdb
+F:\Proba - mikrofon\Proba\bin\Debug\Proba.exe
+F:\Proba - mikrofon\Proba\bin\Debug\Proba.pdb
+F:\Proba - mikrofon\Proba\bin\Debug\itextsharp.dll
+F:\Proba - mikrofon\Proba\bin\Debug\NAudio.dll
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.Form1.resources
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.Form2.resources
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.Form3.resources
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.Properties.Resources.resources
+F:\Proba - mikrofon\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+F:\Proba - mikrofon\Proba\bin\Debug\Proba.exe.CodeAnalysisLog.xml
+F:\Proba - mikrofon\Proba\bin\Debug\Proba.exe.lastcodeanalysissucceeded
+P:\Proba - mikrofon\Proba\bin\Debug\Proba.exe.config
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.exe
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.pdb
+P:\Proba - mikrofon\Proba\bin\Debug\Proba.exe
+P:\Proba - mikrofon\Proba\bin\Debug\Proba.pdb
+P:\Proba - mikrofon\Proba\bin\Debug\itextsharp.dll
+P:\Proba - mikrofon\Proba\bin\Debug\NAudio.dll
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.Form1.resources
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.Form2.resources
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.Form3.resources
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.Properties.Resources.resources
+P:\Proba - mikrofon\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+P:\Proba - mikrofon v0.2\Proba\bin\Debug\Proba.exe.config
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.exe
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.pdb
+P:\Proba - mikrofon v0.2\Proba\bin\Debug\Proba.exe
+P:\Proba - mikrofon v0.2\Proba\bin\Debug\Proba.pdb
+P:\Proba - mikrofon v0.2\Proba\bin\Debug\itextsharp.dll
+P:\Proba - mikrofon v0.2\Proba\bin\Debug\NAudio.dll
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.Form1.resources
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.Form2.resources
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.Form3.resources
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.Form4.resources
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.Properties.Resources.resources
+P:\Proba - mikrofon v0.2\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+P:\Proba - mikrofon v0.3\Proba\bin\Debug\Proba.exe.config
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.exe
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.pdb
+P:\Proba - mikrofon v0.3\Proba\bin\Debug\Proba.exe
+P:\Proba - mikrofon v0.3\Proba\bin\Debug\Proba.pdb
+P:\Proba - mikrofon v0.3\Proba\bin\Debug\itextsharp.dll
+P:\Proba - mikrofon v0.3\Proba\bin\Debug\NAudio.dll
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form1.resources
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form2.resources
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form3.resources
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form4.resources
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Properties.Resources.resources
+P:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache
+F:\Proba - mikrofon v0.3\Proba\bin\Debug\Proba.exe.config
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.exe
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.pdb
+F:\Proba - mikrofon v0.3\Proba\bin\Debug\Proba.exe
+F:\Proba - mikrofon v0.3\Proba\bin\Debug\Proba.pdb
+F:\Proba - mikrofon v0.3\Proba\bin\Debug\itextsharp.dll
+F:\Proba - mikrofon v0.3\Proba\bin\Debug\NAudio.dll
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.csprojResolveAssemblyReference.cache
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form1.resources
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form2.resources
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form3.resources
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Form4.resources
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.Properties.Resources.resources
+F:\Proba - mikrofon v0.3\Proba\obj\Debug\Proba.csproj.GenerateResource.Cache

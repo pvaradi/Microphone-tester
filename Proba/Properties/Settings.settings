@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Proba.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="savedNoiseFileLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="savedLogFileLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="savedComPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="savedBaudRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="savedDataBits" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="savedStopBits" Type="System.String" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="savedParity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="savedHandshake" Type="System.String" Scope="User">
+      <Value Profile="(Default)">XOnXOff</Value>
+    </Setting>
+    <Setting Name="savedIPAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="savedPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7777</Value>
+    </Setting>
+    <Setting Name="savedInstrumentName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K2700</Value>
+    </Setting>
+    <Setting Name="savedInstrumentSerial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4093987</Value>
+    </Setting>
+    <Setting Name="savedChamberName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Weiss WLK100</Value>
+    </Setting>
+    <Setting Name="savedChamberSerial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">444444</Value>
+    </Setting>
+    <Setting Name="savedChamberProgramFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Simpati\SIMPROG</Value>
+    </Setting>
+    <Setting Name="savedChamberArchiveFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Simpati\MEASURE</Value>
+    </Setting>
+    <Setting Name="savedChamberProgramFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NoData</Value>
+    </Setting>
+    <Setting Name="savedChamberArchiveFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NoData</Value>
+    </Setting>
+    <Setting Name="savedTestStartTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NoData</Value>
+    </Setting>
+    <Setting Name="savedTestFinishedTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NoData</Value>
+    </Setting>
+    <Setting Name="savedTestSignalMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Chamber controlled</Value>
+    </Setting>
+    <Setting Name="chamberTemperature" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11002¶1¶1¶</Value>
+    </Setting>
+    <Setting Name="chamberHumidity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11002¶1¶2¶</Value>
+    </Setting>
+    <Setting Name="chamberDigitalOut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14003¶1¶4¶</Value>
+    </Setting>
+    <Setting Name="chamberStartStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14003¶1¶1¶</Value>
+    </Setting>
+    <Setting Name="chamberArchivePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10024¶1¶</Value>
+    </Setting>
+    <Setting Name="chamberProgramPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10026¶1¶</Value>
+    </Setting>
+    <Setting Name="chamberArchiveName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19012¶1¶</Value>
+    </Setting>
+    <Setting Name="chamberProgramName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19031¶1¶</Value>
+    </Setting>
+    <Setting Name="chamberName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10006¶1¶</Value>
+    </Setting>
+    <Setting Name="savedScanRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
